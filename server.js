@@ -1,4 +1,4 @@
-// API de restaurante de pizza
+// API de restaurante
 
 import app from "./src/app.js";
 
